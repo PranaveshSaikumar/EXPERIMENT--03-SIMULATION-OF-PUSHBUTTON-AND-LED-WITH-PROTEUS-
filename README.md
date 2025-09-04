@@ -101,6 +101,7 @@ void push_button()
 	    HAL_GPIO_WritePin(GPIOA, GPIO_PIN_6, GPIO_PIN_RESET); // LED OFF
 	  }
 	}
+```
 ## Output screen shots of proteus  :
 
 <img width="572" height="832" alt="image" src="https://github.com/user-attachments/assets/5d5050b0-17b7-42dd-8ac1-c79360c0d847" />
